@@ -1,0 +1,25 @@
+{
+    "name": "7 Minute Quick and Effective Workout",
+    "link": "https://www.youtube.com/watch?v=Lu1qJrjxzME",
+    "label": "W1",
+    "steps": [
+        ["Jump side to side", "35"],
+        ["Break", "15"],
+        ["Jump Squats", "30"],
+        ["Break", "15"],
+        ["Punch left to right", "30"],
+        ["Break", "15"],
+        ["Crunch those abs", "35"],
+        ["Break", "15"],
+        ["Dip and Swing", "30"],
+        ["Break", "15"],
+        ["Kick out from side to side", "30"],
+        ["Break", "15"],
+        ["Legs back touch the floor", "30"],
+        ["Break", "15"],
+        ["Keep your tummy tight", "30"],
+        ["Break", "15"],
+        ["Time to Jump", "35"],
+        ["Break", "15"]
+    ]
+}

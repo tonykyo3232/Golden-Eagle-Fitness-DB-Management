@@ -1,0 +1,17 @@
+{
+    "name": "5 Minute Full Body Workout",
+    "link": "https://www.youtube.com/watch?v=Tz9d7By2ytQ",
+    "label": "W2",
+    "steps": [
+        ["Jumping Jacks", "30"],
+        ["Mountain Climbers", "30"],
+        ["Squat Side Kick", "30"],
+        ["Squat Jumps", "30"],
+	    ["Push Ups", "30"],
+	    ["Plank Push Ups", "30"],
+	    ["Side Leg Raise(Left)", "30"],
+	    ["Side Leg Raise(Right)", "30"],
+	    ["T Rotation", "30"],
+	    ["Hip Bridge", "30"]
+    ]
+}
