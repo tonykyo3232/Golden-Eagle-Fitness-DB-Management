@@ -1,0 +1,17 @@
+{
+    "name": "5 Minute Home Workout",
+    "link": "https://www.youtube.com/watch?v=fLLScgWQcHc",
+    "label": "W4",
+    "steps": [
+        ["Squat", "30"],
+        ["Cross Back Lunge", "30"],
+        ["Superman Full Push Up", "30"],
+        ["Side Kick(Left)", "30"],
+	["Side Kick(Right)", "30"],
+	["Side Plank Rotation(Right)", "30"],
+	["Side Plank Rotation(Left)", "30"],
+	["Leg Raise", "30"],
+	["Bicycle", "30"],
+	["Toe Touch", "30"]
+    ]
+}
