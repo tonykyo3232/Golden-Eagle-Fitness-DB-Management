@@ -1,5 +1,9 @@
 # Golden Eagle Fitness database management
 
+## This project is currently hosting line by [Heroku](https://www.heroku.com/)
+**Project link:**
+https://gef-db.herokuapp.com/workout
+
 ## To run the Spring Boot
 
 - Run SpRestMongoApplication.java
