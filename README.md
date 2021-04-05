@@ -1,0 +1,1 @@
+This Repositoey will manage end points for the website and manage the GET, POST, DELETE and PATCH request. It also connects to MongoDB Atlas. See more details in sprest-mongo folder.

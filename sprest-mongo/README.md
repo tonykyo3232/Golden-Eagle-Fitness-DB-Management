@@ -1,6 +1,6 @@
 # Golden Eagle Fitness database management
 
-## This project is currently hosting line by [Heroku](https://www.heroku.com/)
+## This project is currently hosting by [Heroku](https://www.heroku.com/)
 **Project link:**
 https://gef-db.herokuapp.com/workout
 
