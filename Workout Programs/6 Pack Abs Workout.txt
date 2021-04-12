@@ -1,0 +1,17 @@
+{
+    "name": "6 Pack Abs Workout",
+    "link": "https://www.youtube.com/watch?v=tjZm34Kfpmg",
+    "label": "W5",
+    "steps": [
+        ["Leg Raise", "30"],
+	["Left Lift Circles", "30"],
+	["Scissor Kick", "30"],
+	["Cross Crunch", "30"],
+	["Bicycle", "30"],
+	["Russian Twist", "30"],
+	["Side Leg Raise(Left)", "30"],
+	["Side Leg Raise(Right)", "30"],
+	["Plank Rotation", "30"],
+	["Plank", "30"]
+    ]
+}
