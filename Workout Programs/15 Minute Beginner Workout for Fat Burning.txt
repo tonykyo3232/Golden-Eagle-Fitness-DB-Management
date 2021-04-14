@@ -1,6 +1,6 @@
 {
     "name": "15 Minute Beginner Workout for Fat Burning",
-    "link": "https://www.youtube.com/watch?v=bleOTMDa3_4",
+    "link": "https://www.youtube.com/watch?v=bleOTMDa3_4&t=91s",
     "label": "W3",
     "steps": [
         ["Windmill", "45"],
