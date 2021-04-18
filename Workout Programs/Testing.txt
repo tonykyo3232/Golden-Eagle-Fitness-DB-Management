@@ -1,0 +1,12 @@
+{
+    "name": "Testing",
+    "link": "https://www.youtube.com/",
+    "label": "W0",
+    "steps": [
+        ["Step 1", "10"],
+        ["Break", "5"],
+        ["Step 2", "10"],
+        ["Break", "5"],
+        ["Step 3", "10"]
+    ]
+}
